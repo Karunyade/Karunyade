@@ -9,7 +9,7 @@
 ## **Hi There 👋 It's me Karunya**  
 <img align="right" src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250" height="250" />
 
-Hi there! I’m **Karunya M**, a **Full-Stack Engineer @ Codingmart Technologies** with expertise in **MERN stack, API development, and problem-solving**.  
+**Full-Stack Engineer @ Codingmart Technologies** with expertise in **MERN stack, API development, and problem-solving**.  
 
 - 🌱 **Currently Learning:** MERN Stack & Advanced DSA  
 - 📫 **How to reach me:** [devikarunya9976@gmail.com](mailto:devikarunya9976@gmail.com)  
