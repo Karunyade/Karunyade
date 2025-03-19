@@ -42,7 +42,18 @@
 </p>
 
 ---
+## **📌 Featured Projects**  
 
+🚀 **[Online Bidding App](https://github.com/Karunyade/Online-Auction-Website)**  
+🔹 Built a **MERN stack** bidding system with **real-time updates**.  
+🔹 Implemented **JWT-based authentication** and secure REST APIs.  
+
+🌐 **[E-commerce Website](https://github.com/Karunya-devii/E-commerce)**  
+🔹 Developed a **E-commerce website** for Purchasing Products.  
+🔹 Used **Solr-search, Node.js, and React.js** for **Full-text Search** responses.  
+
+
+---
 
 ## **📈 GitHub & LeetCode Progress**  
 
