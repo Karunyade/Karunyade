@@ -43,19 +43,6 @@
 
 ---
 
-## **📌 Featured Projects**  
-
-🚀 **[Online Bidding App](https://github.com/Karunyade/online-bidding-app)**  
-🔹 Built a **MERN stack** bidding system with **real-time updates**.  
-🔹 Implemented **JWT-based authentication** and secure REST APIs.  
-
-🌐 **[AI Chatbot for Legal Queries](https://github.com/Karunyade/ai-legal-chatbot)**  
-🔹 Developed a **NLP-based AI chatbot** for answering **legal queries**.  
-🔹 Used **TensorFlow, Node.js, and React.js** to provide **context-aware** responses.  
-
-🔗 **More projects →** [GitHub Repositories](https://github.com/Karunyade?tab=repositories)  
-
----
 
 ## **📈 GitHub & LeetCode Progress**  
 
