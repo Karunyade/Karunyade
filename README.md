@@ -11,9 +11,10 @@
 
 **Full-Stack Engineer @ Codingmart Technologies** with expertise in **MERN stack, API development, and problem-solving**.  
 
-- 🌱 **Currently Learning:** MERN Stack & Advanced DSA  
+- 🌱 **Currently Learning:** MERN Stack & Advanced DSA
+- 🔭 **Here's my :** [Portfolio](https://karunyade.github.io/Portfolio/)
 - 📫 **How to reach me:** [devikarunya9976@gmail.com](mailto:devikarunya9976@gmail.com)  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1nlu9zrCrJNtArZj_2RO272E_c0m_xKHZ/view?usp=sharing)  
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1nlu9zrCrJNtArZj_2RO272E_c0m_xKHZ/view?usp=sharing)
 - ⚡ **Fun Fact:** I am a **Robot 🤖**
 - 🚀 **"Code. Learn. Build. Grow."**  
 
